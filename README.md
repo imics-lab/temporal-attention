@@ -1,4 +1,4 @@
-# Temporal Signature Generation for Time-Series Data
+# Temporal Attention Signatures for Interpretable Time-Series Prediction
 # Sequence-to-Sequence Modeling with Temporal Attention
 
 ## Description
@@ -8,7 +8,8 @@ work in sequence-to-sequence time-series modeling for an upcoming paper on
 that topic, however, the additional code does not interfere with Temporal
 Attention Signature study and generation. 
 
-Abstract. Deep neural networks are widely used for time-series predic-
+## Abstract.
+Deep neural networks are widely used for time-series predic-
 tion due to their popularity and accuracy, but their internal workings are
 often considered inscrutable. Recent progress has been made in the inter-
 pretation of neural networks, particularly in models employing attention
