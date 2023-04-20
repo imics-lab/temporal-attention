@@ -4,6 +4,7 @@ src/.idea
 
 !docs/
 !scripts/
+!results/
 
 !data/gesture/
 !data/gesture/processed
