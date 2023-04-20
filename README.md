@@ -1,5 +1,4 @@
 # Temporal Attention Signatures for Interpretable Time-Series Prediction
-# Sequence-to-Sequence Modeling with Temporal Attention
 
 ## Description
 Code from the paper titled "Temporal Attention Signatures for Interpretable
