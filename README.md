@@ -56,7 +56,7 @@ For temporal attention signature research and analysis
  - run this file
  - run scripts/sig-process.py
 
-For Seq2Seq research and analysis (mostly redacted for current review)
+For Seq2Seq research and analysis (mostly redacted due to ongoing research, redacted portions not relevant to temporal signature generation)
  - STEP=0, SHUFFLE=False
  - run this file first with SEC2SEQ=False to get A/P seq2vec for analysis and comparison to seq2seq
  - then run this file with cfg.SEC2SEQ=True and CAPATTN=1 to get A/P seq2seq for analysis and comparison
