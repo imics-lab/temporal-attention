@@ -3,10 +3,10 @@
 
 ## Description
 Code from the paper titled "Temporal Attention Signatures for Interpretable
-Time-Series Prediction" in review with ICANN2023. Code also include future
+Time-Series Prediction" in review with ICANN2023. Code also includes future
 work in sequence-to-sequence time-series modeling for an upcoming paper on
 that topic, however, the additional code does not interfere with Temporal
-Attention Signature study and generation. 
+Attention Signature study and generation, and is for the most part redacted.
 
 ## Setup
 Requires
